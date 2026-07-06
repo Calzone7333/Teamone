@@ -29,8 +29,8 @@ const Footer = () => {
           </div>
           <div className="footer-column" style={{ maxWidth: '250px' }}>
             <h4>Contact Details</h4>
-            <p style={{ margin: 0, fontSize: '14px', lineHeight: '1.6', color: '#000' }}>32, 1st Main Road,<br/>Ayyappa Nagar, Virugambakkam,<br/>Chennai – 600092</p>
-            <p style={{ margin: '0.5rem 0 0 0', fontSize: '14px', color: '#000' }}>+91 7200097677</p>
+            <p style={{ margin: 0, fontSize: '14px', lineHeight: '1.6', color: '#000' }}>32, 1st Main Road,<br />Ayyappa Nagar, Virugambakkam,<br />Chennai – 600092</p>
+            <p style={{ margin: '0.5rem 0 0 0', fontSize: '14px', color: '#000' }}>+91 9940778529</p>
             <p style={{ margin: 0, fontSize: '14px', color: '#000' }}>info@team1.com</p>
           </div>
         </div>
