@@ -101,7 +101,7 @@ const Contact = () => {
             >
               <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '1rem' }}><Mail size={32} color="#8ECCF2" /></div>
               <h3 style={{ fontSize: '20px', fontWeight: '600', marginBottom: '1rem', color: '#000' }}>Email Inquiries</h3>
-              <p style={{ fontSize: '16px', color: '#666', margin: 0 }}>info@team1.com<br />Average response: 24 Hrs</p>
+              <p style={{ fontSize: '16px', color: '#666', margin: 0 }}>info@team1.in<br />Average response: 24 Hrs</p>
             </motion.div>
           </div>
 
